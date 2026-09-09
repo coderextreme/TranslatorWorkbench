@@ -1,0 +1,6 @@
+{
+  "name": "4D Visual Language Workbench",
+  "description": "A 4-dimensional reversible visual programming language and interactive workbench for data mapping based on J.W. Carlson's LLNL OOPSLA research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
